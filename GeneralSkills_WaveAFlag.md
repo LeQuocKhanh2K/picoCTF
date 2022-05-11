@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/75305251/167761993-6269030a-b404-49af-9f2c-ff8b66afb251.png" alt="Search" height="497" width="833">
+<img src="https://user-images.githubusercontent.com/75305251/167761993-6269030a-b404-49af-9f2c-ff8b66afb251.png" alt="Search" height="397" width="733">
 </p>
 
 <p align="center">
@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/75305251/167762012-9bcc7bc6-78ff-4e1b-979f-57d4a3b68890.png" alt="Search" height="416" width="751">
+<img src="https://user-images.githubusercontent.com/75305251/167762012-9bcc7bc6-78ff-4e1b-979f-57d4a3b68890.png" alt="Search" height="416" width="651">
 </p>
