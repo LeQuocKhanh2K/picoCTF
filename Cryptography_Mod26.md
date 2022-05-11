@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/75305251/167759375-add2a73d-72f0-4dc6-b832-40fb6acd5f88.png" alt="Search" height="485" width="1362">
+<img src="https://user-images.githubusercontent.com/75305251/167759375-add2a73d-72f0-4dc6-b832-40fb6acd5f88.png" alt="Search" height="385" width="1262">
 </p>
 
 
@@ -14,5 +14,5 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/75305251/167759404-a0a093a8-7d92-436e-b932-ff0a6c154fb7.png" alt="Search" height="875" width="1530">
+<img src="https://user-images.githubusercontent.com/75305251/167759404-a0a093a8-7d92-436e-b932-ff0a6c154fb7.png" alt="Search" height="475" width="1030">
 </p>
