@@ -13,3 +13,5 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/75305251/167978550-701f2011-2744-4db6-8b75-c31ad69eab9b.png" alt="Search" height="435" width="640">
 </p>
+
+Note: https://29a.ch/photo-forensics/#strings
